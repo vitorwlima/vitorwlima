@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p>My name is Vitor and I'm a javascript developer</p>
+<p>My name is Vitor and I'm a typescript developer</p>
 
 ## About me
 
