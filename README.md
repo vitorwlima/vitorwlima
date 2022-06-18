@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 ###
-<p align="left">My name is Vitor and I'm a fullstack typescript developer</p>
+<p align="left">Fullstack typescript developer excited about the latest web technologies</p>
 
 ###
 <h2 align="left">About me</h2>
