@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">- 🔭 Enthusiastic about solving problems<br>  - 🌱 Love learning new things<br>  - 👯 Able to get the hang of anything I don't know in a few days</p>
+<p align="left">- 🔭 Enthusiastic about solving problems<br>  - 🌱 Love learning new things<br>  - 👯 Able to get the hang of new tech in few days</p>
 
 ###
 <h2 align="left">Tech stack</h2>
